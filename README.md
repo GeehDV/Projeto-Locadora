@@ -11,3 +11,9 @@ Estrutura do projeto:
 - Banco de Dados - Utiliza MySQL para conectar a aplicação a um banco de dados, onde são armazenados os dados dos filmes, usuários e locações.
 
 Este sistema foi criado para tornar o processo de locação mais acessível e conveniente, permitindo que os usuários aproveitem uma experiência de cinema diretamente de casa.
+
+Nomes dos integrantes que fizeram parte deste projeto:
+- Davi Neves
+- Geovanna Amorim
+- Jéssica 
+- Maria Giulia 
