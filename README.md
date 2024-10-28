@@ -13,7 +13,7 @@ Estrutura do projeto:
 Este sistema foi criado para tornar o processo de locação mais acessível e conveniente, permitindo que os usuários aproveitem uma experiência de cinema diretamente de casa.
 
 Nomes dos integrantes que fizeram parte deste projeto:
-- Davi Neves
+- Davi Correia
 - Geovanna Amorim
-- Jéssica 
+- Jéssica Neves
 - Maria Giulia 
